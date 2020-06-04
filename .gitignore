@@ -1,0 +1,8 @@
+.vscode/
+Assembly-CSharp.csproj
+InfiniteJumper2.sln
+Library/
+Logs/
+Packages/
+Temp/
+obj/
